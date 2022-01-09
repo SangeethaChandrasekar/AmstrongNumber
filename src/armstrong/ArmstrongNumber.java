@@ -16,4 +16,3 @@ public class ArmstrongNumber {
             System.out.println(number + " is not an Armstrong number");
     }
 }
-
